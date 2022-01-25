@@ -1,0 +1,8 @@
+motors.c:14:6:RightInit	8	static
+motors.c:21:6:LeftInit	8	static
+motors.c:29:6:RightCW	16	static
+motors.c:42:6:RightCCW	16	static
+motors.c:55:6:RightOFF	8	static
+motors.c:64:6:LeftCW	16	static
+motors.c:77:6:LeftCCW	16	static
+motors.c:90:6:LeftOFF	8	static
